@@ -61,6 +61,8 @@ Bu projede kullanılan başlıca teknolojiler şunlardır:
 
 ## Projeden Görüntüler 📷
 
+![image](https://github.com/user-attachments/assets/243f197a-6be1-4e7e-b673-23214c681a59)
+--
 ![image](https://github.com/user-attachments/assets/572d76e2-b226-4636-aec4-cbe912f96ab0)
 --
 ![image](https://github.com/user-attachments/assets/7ff82046-7f03-4c10-88e8-680f912488d9)
