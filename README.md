@@ -2,7 +2,13 @@
 
 Bu projede, kişisel finans yönetimi için kapsamlı bir CRM uygulaması geliştirilmiştir. Uygulama, kullanıcıların finansal durumlarını düzenli olarak takip etmelerini sağlar. Kullanıcılar, bankalarındaki bakiyelerden faturalarına, harcamalarından banka hareketlerine kadar birçok veriyi yönetebilir ve analiz edebilirler.
 
-## Proje Özellikleri
+## Eğitim Kaynağı 📚🎥
+
+Bu proje, **Murat Yücedağ**'ın YouTube'da yayınladığı **C# Eğitim Kampı** 📺 kapsamında geliştirilmiştir. Eğitimde öğrenilen temel C# 🖥️ becerileri ve uygulama geliştirme 🛠️ teknikleri projeye entegre edilmiştir. 
+
+Eğitimde, C# dilinin temellerinden başlayarak gerçek dünya uygulamalarına kadar geniş bir konu yelpazesi ele alınmıştır. Eğer C# öğrenmeye başlıyorsanız, bu kaynak çok faydalı olabilir! 🚀
+
+## Proje Özellikleri ⚙️
 
 ### 1. **Kayıtlı Bankalar ve Bakiyeler 🏦💰**
 Kullanıcılar, kayıtlı bankalarını ve bu bankalardaki güncel bakiyelerini kolayca görüntüleyebilir. Uygulama, kullanıcıların tüm bankalarındaki hesap durumlarını tek bir ekranda sunarak finansal durumlarını hızlıca gözden geçirebilmelerini sağlar.
