@@ -48,7 +48,7 @@ Bu bölümde kullanıcılar, profil bilgilerini güncelleyebilir. Özellikle kul
 
 ---
 
-## Teknolojiler
+## Teknolojiler 🧑🏻‍💻
 
 Bu projede kullanılan başlıca teknolojiler şunlardır:
 
@@ -56,10 +56,31 @@ Bu projede kullanılan başlıca teknolojiler şunlardır:
 - **Entity Framework**: Veritabanı işlemleri için kullanılan ORM (Object-Relational Mapping) aracı. Veritabanı ile etkileşim sağlanırken Entity Framework kullanılarak kolayca CRUD işlemleri gerçekleştirilmiştir.
 - **SQL Server**: Veritabanı yönetimi için SQL Server kullanılmıştır. Veritabanı yapısı Entity Framework ile oluşturulmuştur ve SQL sorguları ile veri erişimi yapılmaktadır.
 - **CRUD İşlemleri**: Veritabanı üzerinde veri oluşturma (Create), okuma (Read), güncelleme (Update) ve silme (Delete) işlemleri gerçekleştirilmektedir.
-- 
+
 ---
 
 ## Projeden Görüntüler 📷
+
+![image](https://github.com/user-attachments/assets/572d76e2-b226-4636-aec4-cbe912f96ab0)
+--
+![image](https://github.com/user-attachments/assets/7ff82046-7f03-4c10-88e8-680f912488d9)
+--
+![image](https://github.com/user-attachments/assets/0e6a16b2-f663-4a7d-a97e-7c8bca795348)
+--
+![image](https://github.com/user-attachments/assets/e1d37654-7af5-4f9a-85a7-ff1ad7c4b197)
+--
+![image](https://github.com/user-attachments/assets/e48cde6c-25d9-4e8c-bba4-8b4238b37bda)
+--
+![image](https://github.com/user-attachments/assets/7babb76b-911a-40ca-ae3e-1028cfb87de3)
+--
+
+Murat Yücedağ hocama teşekkürlerimle...
+
+
+
+
+
+
 
 
 
