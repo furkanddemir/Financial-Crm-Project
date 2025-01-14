@@ -1,1 +1,54 @@
-# Financial-Crm-Project
+# Financial CRM - C# Projesi
+
+Bu projede, kişisel finans yönetimi için kapsamlı bir CRM uygulaması geliştirilmiştir. Uygulama, kullanıcıların finansal durumlarını düzenli olarak takip etmelerini sağlar. Kullanıcılar, bankalarındaki bakiyelerden faturalarına, harcamalarından banka hareketlerine kadar birçok veriyi yönetebilir ve analiz edebilirler.
+
+## Proje Özellikleri
+
+### 1. **Kayıtlı Bankalar ve Bakiyeler 🏦💰**
+Kullanıcılar, kayıtlı bankalarını ve bu bankalardaki güncel bakiyelerini kolayca görüntüleyebilir. Uygulama, kullanıcıların tüm bankalarındaki hesap durumlarını tek bir ekranda sunarak finansal durumlarını hızlıca gözden geçirebilmelerini sağlar.
+
+- Kullanıcılar, her bir bankanın adına tıklayarak o bankaya ait detaylı bilgilere ulaşabilir.
+- Banka bakiyeleri, gerçek zamanlı güncellenebilir ve kullanıcılar mevcut bakiyelerini kolayca takip edebilirler.
+
+### 2. **Faturalar 📑💳**
+Bu bölümde, kullanıcılar geçmiş ve mevcut faturalarını görüntüleyebilir ve ödemelerini gerçekleştirebilir. Faturaların düzenli takibi, kullanıcıların ödeme tarihlerine uymalarına yardımcı olur.
+
+- **Fatura Görüntüleme**: Kullanıcılar, her bir faturanın detaylarına kolayca erişebilir (tarih, tutar, ödeme durumu vb.).
+- **Ödeme İşlemleri**: Kullanıcılar, faturalarını görüntüleyip ödeme gerçekleştirebilir. Ödeme işlemi yapıldıktan sonra, fatura durumu "Ödendi" olarak güncellenir.
+
+### 3. **Giderler 💸🧾**
+Kullanıcılar, yaptığı harcamaları kaydedebilir ve düzenleyebilir. Bu özellik, harcamaların düzenli olarak izlenmesini sağlar ve bütçe yönetimine yardımcı olur.
+
+- **Harcamaları Görüntüleme**: Kullanıcılar, geçmiş harcamalarını tarih, kategori, tutar gibi kriterlere göre görüntüleyebilirler.
+- **Yeni Gider Ekleme**: Kullanıcılar, yeni harcama eklemek için belirli bir kategori, tutar ve açıklama girebilirler. Bu işlem, kullanıcıların finansal alışkanlıklarını takip etmelerine olanak tanır.
+
+### 4. **Banka Hareketleri 💳🔄**
+Kullanıcılar, her bir banka hesabındaki işlemleri inceleyebilir ve bu işlemleri filtreleyebilir. Bu özellik, banka hesaplarındaki hareketlerin detaylı bir şekilde izlenmesine olanak tanır.
+
+- **İşlem Görüntüleme**: Kullanıcılar, bankalarındaki geçmiş hareketleri (yatırma, çekme, havale vb.) listeleyebilirler.
+- **Filtreleme ve Arama**: Kullanıcılar, işlemleri tarih, tutar, işlem tipi gibi kriterlere göre filtreleyebilir.
+
+### 5. **Dashboard 📊📈**
+Dashboard, kullanıcıların tüm finansal durumlarını tek bir ekran üzerinden izlemesini sağlar. Kullanıcılar, toplam banka bakiyelerini, son yapılan havaleleri ve finansal durumu gösteren grafiklerle genel bir bakış elde edebilirler.
+
+- **Genel Bakış**: Kullanıcılar, tüm bankalarındaki toplam bakiyeyi ve son yapılan havaleyi görebilirler.
+- **Grafikler**: Gelir ve giderlerin karşılaştırıldığı grafikler sayesinde kullanıcılar, finansal durumlarını görsel olarak analiz edebilirler.
+
+### 6. **Ayarlar ⚙️🔒**
+Bu bölümde kullanıcılar, profil bilgilerini güncelleyebilir. Özellikle kullanıcı adı ve şifre değiştirme işlemleri yapılabilir.
+
+- **Kullanıcı Adı Güncelleme**: Kullanıcılar, mevcut kullanıcı adı bilgilerini değiştirebilirler.
+- **Şifre Güncelleme**: Güvenlik için kullanıcılar şifrelerini değiştirebilirler.
+
+---
+
+## Teknolojiler
+
+Bu projede kullanılan başlıca teknolojiler şunlardır:
+
+- **C#**: Projeyi geliştirmek için kullanılan ana programlama dili.
+- **Entity Framework**: Veritabanı işlemleri için kullanılan ORM (Object-Relational Mapping) aracı. Veritabanı ile etkileşim sağlanırken Entity Framework kullanılarak kolayca CRUD işlemleri gerçekleştirilmiştir.
+- **SQL Server**: Veritabanı yönetimi için SQL Server kullanılmıştır. Veritabanı yapısı Entity Framework ile oluşturulmuştur ve SQL sorguları ile veri erişimi yapılmaktadır.
+- **CRUD İşlemleri**: Veritabanı üzerinde veri oluşturma (Create), okuma (Read), güncelleme (Update) ve silme (Delete) işlemleri gerçekleştirilmektedir.
+
+
