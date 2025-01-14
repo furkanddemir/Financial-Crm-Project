@@ -56,5 +56,11 @@ Bu projede kullanılan başlıca teknolojiler şunlardır:
 - **Entity Framework**: Veritabanı işlemleri için kullanılan ORM (Object-Relational Mapping) aracı. Veritabanı ile etkileşim sağlanırken Entity Framework kullanılarak kolayca CRUD işlemleri gerçekleştirilmiştir.
 - **SQL Server**: Veritabanı yönetimi için SQL Server kullanılmıştır. Veritabanı yapısı Entity Framework ile oluşturulmuştur ve SQL sorguları ile veri erişimi yapılmaktadır.
 - **CRUD İşlemleri**: Veritabanı üzerinde veri oluşturma (Create), okuma (Read), güncelleme (Update) ve silme (Delete) işlemleri gerçekleştirilmektedir.
+- 
+---
+
+## Projeden Görüntüler 📷
+
+
 
 
